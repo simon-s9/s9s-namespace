@@ -1,0 +1,7 @@
+{
+  "name": "s9s-namespace",
+  "version": "0.0.1",
+  "main": "namespace.js",
+  "author": "Severalnines AB",
+  "license": "MIT"
+}
