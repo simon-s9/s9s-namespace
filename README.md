@@ -1,5 +1,4 @@
 # s9s-namespace
----
 Simplest ES6 namespace class.
 
 ## Installation
